@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-07 - Verify Key Presses</description>
+   <name>UIB-07 - Verify Key Presses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e101ec00-a866-4ded-8f2e-9777ebc4c308</testCaseGuid>
+</TestCaseEntity>
